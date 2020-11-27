@@ -1,0 +1,23 @@
+This folder and its contents are from the N1 Grand Prix Competitive MMBN community. 
+Permanent Discord Invite Link: http://discord.n1gp.net
+
+These games require a different method to be played online. The connection method is explained in our Legacy PVP Guide.
+
+If you're looking for BN3 save files, they aren't needed for pvp. Apply the BBN3 patch and the game state will be pvp-ready without the need for a save file.
+
+
+Credits:
+
+MMBN Save
+    Pending Credit
+
+MMBN2 Save
+    Pending Credit
+
+MMBN4 Saves
+    MidniteW
+    Edits & Updates: Prof9, GreigaMaster, SoulXcross
+
+MMBN5 Saves
+    Pending Credit
+

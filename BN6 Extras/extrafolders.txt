@@ -1,0 +1,42 @@
+Apprentice (Located in ACDC Town near Mayl's House)
+4x GunDelS1 - C
+3x GunDelS2 - R
+3x WaveArm1 - F
+3x Boomer - J
+3x AirRaid1 - R
+3x TimeBom1 - F
+3x Fanfare - *
+4x Recov80 - *
+3x Invisibl - *
+1x Barr100 - O
+
+Expert (Skytown Force Room)
+3x WideSht - P
+3x BblStar2 - C
+3x DolThdr2 - C
+2x IceSeed - *
+1x Sword - *
+2x WideBlde - B
+2x LongBlde - B
+3x VarSwrd - V
+3x GolmHit2 - P
+1x AreaGrab - *
+1x ComingRd - *
+3x WhiCapsl - *
+1x BlastMn<EX> - B
+1x DiveMan<EX> - D
+1x CrcusMn<EX> - C
+
+SoulFolder (Undernet 0 through Undernet 1 Entrance)
+1x M-Cannon - RST
+1x FireBrn2 - STU
+1x FireHit2 - RST
+3x GrasSeed - *
+3x Sword - S
+3x WideSwrd - S
+3x LongSwrd - S
+2x AreaGrab - S
+4x BusterUp - *
+1x Roll - R
+1x Roll2 - R
+1x Roll3 - R

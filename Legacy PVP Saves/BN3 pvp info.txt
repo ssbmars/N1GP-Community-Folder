@@ -1,0 +1,2 @@
+To prepare for BN3 pvp, download and apply the patch from the following url:
+https://bbn3.n1gp.dev

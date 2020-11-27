@@ -1,0 +1,6 @@
+https://www.radmin-vpn.com/
+
+We use Radmin VPN to facilitate peer-to-peer connections between netbattlers without ever needing to share their real IP addresses or set up portforwarding. 
+Radmin creates a virtual "Local Area Network" that our emulator, VBA-Link, is able to connect through.
+
+Use the link provided above to download the Radmin VPN installer.

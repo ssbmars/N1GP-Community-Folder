@@ -1,0 +1,40 @@
+Equipping multiple copies of the same modcard is prohibited.
+
+In the traditional ModCards format, the combined MB value of equipped ModCards cannot go over 80MB.
+
+Chips that are Unobtainable in the version you are using are not allowed in that version. You cannot use Giga chips from Gregar on Falzar and vice versa. 
+
+Banned Chips - Rockman.EXE 6 Gregar
+====================
+HubBatc
+BgDthThd
+CrossDiv
+MetrKnuk
+BassAnly
+Falzar
+
+Banned Chips - Rockman.EXE 6 Falzar
+=====================
+BugRSwrd
+ColForce
+DeltaRay
+BigHook
+Bass
+Gregar
+
+Banned ModCards - Rockman.EXE 6 Falzar/Gregar 
+=====================
+
+Combinations of CSParalyze, CSFreeze, CSBubbling, and -BDown Charge Shot are banned but the cards themselves can still be used. This rule applies to the following cards:
+- ColdMan  (#098)
+- ToadMan  (#037)
+- Starfish (#023)
+
+
+The following ModCard effects are banned:
+- +CS Invis
+
+The cards that grant this ability can still be used, so long as their CS ability is overwritten by another card. This rule applies to the following cards:
+- Momoguran   (#065)
+- Dark Shadow (#008)
+

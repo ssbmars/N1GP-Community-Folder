@@ -1,0 +1,39 @@
+In the interest of competitive integrity, our online community follows these rules:
+
+The use of cheats, glitches, or 3rd Party Programs (Such as Auto-Hotkeys) is not allowed.
+The "Disable Music" gameshark code is allowed, as it's been confirmed to not affect the game's competitive integrity. This is the only exception other than special formats that explicitly allow or require the use of specific cheatcodes.
+
+Desyncs and unforeseen glitches (EX. Starting Round 2 in Exhaustion, Disappearing chips) will sometimes occur. If you suspect a desync, send a screenshot of your game to your opponent with the HP values of both players visible, that way your opponent will be able to confirm if their game state is desynced. If you've confirmed that the game has desynced, completely restart the emulator and try again.
+
+Chips that are Unobtainable in the version you are using are not allowed in that version. You cannot use Giga chips from Gregar on Falzar and vice versa. All Japanese-exclusive Chips are banned in US versions. 
+The 100% Save files that came with this download already contain NO banned chips.
+
+Banned Chips - MMBN 6 Both Versions
+====================
+Gregar (X code Gigachip)
+Falzar (X code Gigachip)
+DoubleBeast (Megachip)
+Django
+Django2
+Django3
+HackJack
+HackJckSP
+HackJckEX
+Otenko
+GunDelEX
+
+Banned Chips - MMBN 6 Gregar
+====================
+HubBatc
+BgDthThd
+CrossDiv
+MetrKnuk
+BassAnly
+
+Banned Chips - MMBN 6 Falzar
+=====================
+BugRSwrd
+ColForce
+DeltaRay
+BigHook
+Bass
