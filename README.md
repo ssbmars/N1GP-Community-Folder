@@ -4,14 +4,14 @@ This folder and its contents are from the N1 Grand Prix Competitive MMBN communi
 Permanent Discord Invite Link: http://discord.n1gp.net
 
 
-MMBN6 Saves
-    Falzar: Salad
-    Gregar: Salad
-    Edits & Updates: MidniteW & IMASUKA
+MMBN6 Saves  
+    Falzar: Salad  
+    Gregar: Salad  
+    Edits & Updates: MidniteW & IMASUKA  
 
-The ModCard Loader Patch was created by ideal_EXE.
-Link to their github: https://github.com/idealexe/EXE6_Tools
-The English version was made by mars with help from X Kirby.
+The ModCard Loader Patch was created by ideal_EXE.  
+Link to their github: https://github.com/idealexe/EXE6_Tools  
+The English version was made by mars with help from X Kirby.  
 
 MrFamous Patch was created by mars.
 
