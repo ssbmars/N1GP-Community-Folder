@@ -5,9 +5,9 @@ Permanent Discord Invite Link: http://discord.n1gp.net
 
 
 MMBN6 Saves  
-* Falzar: Salad  
-* Gregar: Salad  
-* Edits & Updates: MidniteW & IMASUKA  
+*** Falzar: Salad  
+*** Gregar: Salad  
+*** Edits & Updates: MidniteW & IMASUKA  
 
 The ModCard Loader Patch was created by ideal_EXE.  
 Link to their github: https://github.com/idealexe/EXE6_Tools  
