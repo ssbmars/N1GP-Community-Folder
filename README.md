@@ -11,6 +11,7 @@ MMBN6 Saves
 
 The ModCard Loader Patch was created by ideal_EXE.
 Link to their github: https://github.com/idealexe/EXE6_Tools
+
 The English version was made by mars with help from X Kirby.
 
 MrFamous Patch was created by mars.
