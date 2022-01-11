@@ -1,3 +1,10 @@
+INSTRUCTIONS: 
+1) Make a copy of your save file before applying any of these codes. 
+2) Create new save files for each navi you wish to use. 
+3) Never apply the codes for multiple navis to the same save file, even if the previous navi's codes were removed before applying the new codes.
+
+
+
 MegaMan SP
 02001B81:00
 02001C34:014F
