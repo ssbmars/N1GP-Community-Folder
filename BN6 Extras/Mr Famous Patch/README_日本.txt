@@ -3,7 +3,7 @@
 1) IPSファイルをBN6/EXE6のROMと同じフォルダに配置してください。
 
 2) IPSファイルの名前がパッチを適用したいROMファイルと同じ名前になっていることを確認してください。
-   例： "BN6 Falzar.IPS" & "BN6 Falzar.GBA" 
+   例： "EXE6 Falzar.IPS" & "EXE6 Falzar.GBA" 
 
 3) VBA-Linkではゲームを起動したときに自動で一時的にパッチを適用することができます。
 

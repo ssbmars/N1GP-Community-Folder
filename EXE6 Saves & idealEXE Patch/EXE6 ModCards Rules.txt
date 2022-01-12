@@ -1,6 +1,23 @@
-Equipping multiple copies of the same modcard is prohibited.
+N1GP EXE 6 Modcards Ruleset.
+This document serves as a suggested ruleset for Tournament Organizers, 
+and as introductory info for players who are new to the format.
 
-In the traditional ModCards format, the combined MB value of equipped ModCards cannot go over 80MB.
+The following two rules are automatically enforced by the Ideal EXE patch:
+
+1) Equipping multiple copies of the same modcard is prohibited.
+2) In the traditional ModCards format, the combined MB value of equipped ModCards cannot go over 80MB.
+
+
+MISC:
+
+Usage of the tornado+whitepill glitch is banned.
+
+Usage of the slashcross/spoutcross/tomahawkcross "overcharge" glitch is allowed.
+
+
+CHIPS:
+
+Usage of JP exclusive chips such as Django, Otenko, DoubleBeast and Cybeast gigas is allowed.
 
 Chips that are Unobtainable in the version you are using are not allowed in that version. You cannot use Giga chips from Gregar on Falzar and vice versa. 
 
@@ -11,7 +28,7 @@ BgDthThd
 CrossDiv
 MetrKnuk
 BassAnly
-Falzar
+Falzar (giga chip)
 
 Banned Chips - Rockman.EXE 6 Falzar
 =====================
@@ -20,21 +37,39 @@ ColForce
 DeltaRay
 BigHook
 Bass
-Gregar
+Gregar (giga chip)
+
+
+MODCARDS:
 
 Banned ModCards - Rockman.EXE 6 Falzar/Gregar 
 =====================
+The ability [Charged Shot: Invisible] is banned.
+Momogra and Shadow are legal, but the charge ability they grant must be replaced by a different CS or reset by the negative effect [Default Charged Shot].
+This rule applies to these cards:
+- (065) Momogra
+- (008) Shadow
 
-Combinations of CSParalyze, CSFreeze, CSBubbling, and -BDown Charge Shot are banned but the cards themselves can still be used. This rule applies to the following cards:
-- ColdMan  (#098)
-- ToadMan  (#037)
-- Starfish (#023)
 
+Combinations of either [CS:Bubbling], [CS:Paralyze], or [CS:Freeze] with the negative effect "Default Charge Shot" are banned, but the cards themselves can be used without the banned combination.
+These cards grant [Bubbling], [Paralyze], and [Freeze] respectively:
+- (023) Starfish
+- (037) ToadMan
+- (098) ColdMan
+These cards grant the Negative Effect [Default Charged Shot]:
+- (009) Beetle
+- (014) Numbers
+- (030) EarthDragon
+- (075) HauntedCandle
+- (079) Shrubby
+- (087) PharaohMan
+- (096) TopMan
+- (102) ChargeMan
+- (106) ElementMan
 
-The following ModCard effects are banned:
-- +CS Invis
+The banned combination is achieved by equipping ToadMan/ColdMan/Starfish along with a card that has the negative effect [Default Charged Shot] in either order, and then not overwriting the combination afterwards with another card that modifies the Charge Shot. This combination causes a glitch resulting in the charge shot having a 100% chance to inflict its status.
 
-The cards that grant this ability can still be used, so long as their CS ability is overwritten by another card. This rule applies to the following cards:
-- Momoguran   (#065)
-- Dark Shadow (#008)
-
+To avoid triggering this banned combination, just overwrite the 100% CS status glitch with a new CS Modifier if your combination of modcards so far would have resulted in this glitch triggering. Valid ways to overwrite the banned glitch include:
+- Using a CS Modifier that gives you a different kind of CS attack that is not affected by CS Addition effects. Look for effects that use the format [Charge Shot: <attack>]
+- Using a card that applies a Charge Shot Addition effect that is allowed to have a 100% proc chance. Look for effects that use the format [Charge Shot Addition: <effect>]
+- Using a card that has the negative effect [Charged Shot Addition disabled]
