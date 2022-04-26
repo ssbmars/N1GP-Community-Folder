@@ -1,0 +1,2 @@
+https://github.com/murkland/tango
+Visit this github repository and follow the instructions on the page to join the Tango discord and download the latest build of Tango rollback. Continue using the discord to submit bug reports, get help with troubleshooting, and to receive updates when new versions of Tango are released.
