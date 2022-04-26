@@ -19,7 +19,3 @@ EXE6 is typically only used while playing the ModCards format. For regular match
 
 To play the ModCards format with other netbattlers, use the matchmaking channel in the N1GP Discord server and ask if someone would like to play a round of ModCards.
 
-
-Remember: the Mr Famous patch is included by default with the IdealEXE patch, so you do not need to apply the patch again to an IdealEXE ROM. 
-
-If you would like to disable only the effects of the Mr Famous patch in the IdealEXE patch, an additional "infamous" patch is included for EXE6, which disables the Mr Famous patch. The "infamous patch for EXE6" folder contains instructions for how to use this patch.
