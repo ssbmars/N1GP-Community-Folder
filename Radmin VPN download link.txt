@@ -1,6 +1,8 @@
 https://www.radmin-vpn.com/
 
-We use Radmin VPN to facilitate peer-to-peer connections between netbattlers without ever needing to share their real IP addresses or set up portforwarding. 
+NOTICE: If you are using Tango netplay, radmin is NOT required. If you cannot establish a normal p2p connection and require tunneling from a server though, Tango will select the fastest tunneled path to the other player and Radmin's tunnel can be used if it ends up being faster than Tango's built in tunneling service. 
+
+When connecting with VBA instead of Tango, we use Radmin VPN to facilitate peer-to-peer connections between netbattlers without ever needing to share their real IP addresses or set up portforwarding. 
 Radmin creates a virtual "Local Area Network" that our emulator, VBA-Link, is able to connect through.
 
 Use the link provided above to download the Radmin VPN installer.
