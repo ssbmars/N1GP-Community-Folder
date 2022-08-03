@@ -9,11 +9,7 @@ PvP-compatible patches are provided by Tango.
 
 Patches for converting known alternative versions of ROMs into vanilla US copies are provided by the N1GP to make the ROMs compatible with Tango.  
 
-### MMBN6 Saves  
-Falzar: Salad  
-Gregar: Salad  
-Edits & Updates: MidniteW & IMASUKA  
+### Credits and Source 
+Save file credits are listed in `Credits and Source.txt`  
 
-
-
-This folder is not intended to be distributed outside of the N1 Grand Prix (N1GP) Community. If found outside the N1GP Discord or not tied to N1GP Events, please DM @Salad on Discord.
+This folder is maintained by the N1 Grand Prix (N1GP) Community and we encourage you to share our resources by linking people directly to this repository. Please do not reupload or mirror these resources, as it's ideal for everyone to have direct access to the complete and most up to date revisions that are hosted here. If found reuploaded elsewhere, please inform the reuploader of the preferred method of sharing, or open an issue here to inform the N1GP backroom.
