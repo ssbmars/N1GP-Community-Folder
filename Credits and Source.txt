@@ -3,17 +3,19 @@ Permanent Discord Invite Link: http://discord.n1gp.net
 
 
 MMBN6 Saves
-	Falzar: Salad
-	Gregar: Salad
+	Falzar: MegaRockEXE
+	Gregar: MidniteW
 	Edits & Updates: MidniteW & IMASUKA
 
 EXE6 Saves
-	Falzar: Salad
-	Gregar: Salad
-	Edits & Updates: mars
+	mars
 
 MMBN5 Saves
-	Pending Credit
+	ProtoMan: Nol
+	Colonel: MidniteW
+
+MMBN5DS
+	MegaRockEXE
 	
 EXE4.5 Saves
 	GreigaMaster
@@ -22,14 +24,14 @@ MMBN4 Saves
 	MidniteW
 	Edits & Updates: Prof9, GreigaMaster, SoulXcross
 
-MMBN3 Save
+MMBN3 Saves
 	mars
 
 MMBN2 Save
-	Pending Credit
+	MidniteW
 
 MMBN Save
-	Pending Credit
+	MidniteW
 
 
 This folder is not intended to be distributed outside of the N1 Grand Prix (N1GP) Community. If found outside the N1GP Discord or not tied to N1GP Events, please DM @Salad on Discord.
